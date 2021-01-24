@@ -1,5 +1,7 @@
 // Write a function that returns the sum of two number
 
+// level: easy
+
 function add (num1, num2) {
     return num1 + num2;
 }
